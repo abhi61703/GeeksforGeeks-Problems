@@ -4,7 +4,7 @@
 int main() {
 	//code
 	int a[5];
-	int first=INT_MIN,second=INT_MIN,third=INT_MIN;
+	int first=INT_MIN,second=INT_MIN,third=INT_MIN;//initialisibg the variables
 	for(int i=0;i<5;i++){
 	    scanf("%d",&a[i]);
 	    int x=a[i];
